@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>羊大仙儿</title>
+  
+  <subtitle>心里有火，眼里有光</subtitle>
+  <link href="https://wandereryang.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://wandereryang.github.io/"/>
+  <updated>2020-08-18T13:47:34.572Z</updated>
+  <id>https://wandereryang.github.io/</id>
+  
+  <author>
+    <name>未知艺术家</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://wandereryang.github.io/2020/08/1216107.html"/>
+    <id>https://wandereryang.github.io/2020/08/1216107.html</id>
+    <published>2020-08-12T02:26:35.000Z</published>
+    <updated>2020-08-18T13:47:34.572Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    <category term="C++" scheme="https://wandereryang.github.io/categories/C/"/>
+    
+    
+    <category term="C++" scheme="https://wandereryang.github.io/tags/C/"/>
+    
+    <category term="Niginx" scheme="https://wandereryang.github.io/tags/Niginx/"/>
+    
+  </entry>
+  
+</feed>
