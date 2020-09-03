@@ -6,7 +6,7 @@
   <link href="https://wandereryang.github.io/atom.xml" rel="self"/>
   
   <link href="https://wandereryang.github.io/"/>
-  <updated>2020-08-18T13:47:34.572Z</updated>
+  <updated>2020-09-03T16:50:54.111Z</updated>
   <id>https://wandereryang.github.io/</id>
   
   <author>
@@ -17,16 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://wandereryang.github.io/2020/08/1216107.html"/>
-    <id>https://wandereryang.github.io/2020/08/1216107.html</id>
-    <published>2020-08-12T02:26:35.000Z</published>
-    <updated>2020-08-18T13:47:34.572Z</updated>
+    <title>基于Qt5.15的CRC校验小工具开发项目</title>
+    <link href="https://wandereryang.github.io/2020/09/0416107.html"/>
+    <id>https://wandereryang.github.io/2020/09/0416107.html</id>
+    <published>2020-09-03T16:41:35.000Z</published>
+    <updated>2020-09-03T16:50:54.111Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;font&gt;
+        近期用到CRC校验算法，网上搜索很多示例都有问题，所以研究了一下基于Qt写了个CRC校验小工具。&lt;/font&gt;
+
+&lt;</summary>
       
     
     
@@ -36,7 +39,7 @@
     
     <category term="C++" scheme="https://wandereryang.github.io/tags/C/"/>
     
-    <category term="Niginx" scheme="https://wandereryang.github.io/tags/Niginx/"/>
+    <category term="Qt" scheme="https://wandereryang.github.io/tags/Qt/"/>
     
   </entry>
   
